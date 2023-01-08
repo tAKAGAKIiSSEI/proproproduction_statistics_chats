@@ -1,13 +1,13 @@
--1:24:15 ｜¥90 ｜UCeE2-V8z0c8SXabNMEmBcPA ｜丑の刻 ｜
--33:33 ｜¥500 ｜UCyk64c9FvMZVGP_7kn3lUaA ｜としとし ｜
-2:52 ｜ARS 50.00 ｜UC__HNc2Q9t6fH5cXnqrH-lw ｜💗🥄ケンジ 【一般紳士A】 ｜
-3:30 ｜NT$30.00 ｜UCUFyZb4Xi8pieOu3LRFkT3Q ｜💗🥄艾路貓 ｜
-4:10 ｜MYR 4.90 ｜UCTllvNhRWJAnsoWojI6j8-A ｜しんちゃん ｜
-6:26 ｜SEK 19.00 ｜UCq4fxTeja3ac6SVM_F5pOYg ｜ManaAlchemist ｜
-8:45 ｜¥190 ｜UCHZiUxJxxNwtijQ3eJz0hmw ｜クライド ｜
-32:45 ｜ARS 14.00 ｜UCWfT5wRZXIcHxCwAGPwHTDQ ｜雨 ame ｜
-32:51 ｜ARS 14.00 ｜UCWfT5wRZXIcHxCwAGPwHTDQ ｜雨 ame ｜
-53:19 ｜¥140 ｜UClQkGGb81zr2aV5P56sK4Rw ｜穂積 ｜
-2:06:36 ｜¥190 ｜UCrTGOe-EZMOxU7owURbeZuA ｜千代井から ｜
-2:22:18 ｜HK$8.00 ｜UCPUsLE1arhzUF3PRCLPj4vg ｜Chesterチェスター ｜
-2:28:38 ｜¥90 ｜UCYaciINs1adHJD5BkoL5CQg ｜陸月 ｜
+｜-01:24:15｜Member (2 months)｜¥90｜UCeE2-V8z0c8SXabNMEmBcPA｜丑の刻｜
+｜-00:33:33｜Member (6 months)｜¥500｜UCyk64c9FvMZVGP_7kn3lUaA｜としとし｜
+｜00:02:52｜Member (6 months)｜ARS 50.00｜UC__HNc2Q9t6fH5cXnqrH-lw｜💗🥄ケンジ 【一般紳士A】｜
+｜00:03:30｜Member (2 months)｜NT$30.00｜UCUFyZb4Xi8pieOu3LRFkT3Q｜💗🥄艾路貓｜
+｜00:04:10｜Member (6 months)｜MYR 4.90｜UCTllvNhRWJAnsoWojI6j8-A｜しんちゃん｜
+｜00:06:26｜Member (1 month)｜SEK 19.00｜UCq4fxTeja3ac6SVM_F5pOYg｜ManaAlchemist｜
+｜00:08:45｜New member｜¥190｜UCHZiUxJxxNwtijQ3eJz0hmw｜クライド｜
+｜00:32:45｜Member (6 months)｜ARS 14.00｜UCWfT5wRZXIcHxCwAGPwHTDQ｜雨 ame｜
+｜00:32:51｜Member (6 months)｜ARS 14.00｜UCWfT5wRZXIcHxCwAGPwHTDQ｜雨 ame｜
+｜00:53:19｜Member (2 months)｜¥140｜UClQkGGb81zr2aV5P56sK4Rw｜穂積｜
+｜02:06:36｜Member (6 months)｜¥190｜UCrTGOe-EZMOxU7owURbeZuA｜千代井から｜
+｜02:22:18｜Member (6 months)｜HK$8.00｜UCPUsLE1arhzUF3PRCLPj4vg｜Chesterチェスター｜
+｜02:28:38｜New member｜¥90｜UCYaciINs1adHJD5BkoL5CQg｜陸月｜

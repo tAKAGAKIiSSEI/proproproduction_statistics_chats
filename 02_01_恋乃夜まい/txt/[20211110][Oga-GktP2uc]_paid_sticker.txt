@@ -1,17 +1,17 @@
--0:26 ｜A$1.99 ｜UCI99_oH048CtZdMgZUkAjxQ ｜Kuriboh J ｜
-2:42 ｜NT$22.00 ｜UCWfT5wRZXIcHxCwAGPwHTDQ ｜雨 ame ｜
-2:42 ｜NT$22.00 ｜UCWfT5wRZXIcHxCwAGPwHTDQ ｜雨 ame ｜
-3:54 ｜ARS 20.00 ｜UC__HNc2Q9t6fH5cXnqrH-lw ｜💗🥄ケンジ 【一般紳士A】 ｜
-4:10 ｜¥190 ｜UCrTGOe-EZMOxU7owURbeZuA ｜千代井から ｜
-10:27 ｜HK$8.00 ｜UCPUsLE1arhzUF3PRCLPj4vg ｜Chesterチェスター ｜
-10:47 ｜¥120 ｜UC5hi5iYPnkmhxkiP_5PqP9A ｜ぽぺっっっっっ ｜
-13:27 ｜ARS 100.00 ｜UCAtWA_ZA8XMGr6gg9QhnMRw ｜C.K. Au ｜
-15:37 ｜A$2.00 ｜UCI99_oH048CtZdMgZUkAjxQ ｜Kuriboh J ｜
-44:11 ｜HK$50.00 ｜UC7eorhXJadXTeFfIcgaKnOA ｜何柱威ho ｜
-1:17:47 ｜A$1.99 ｜UCI99_oH048CtZdMgZUkAjxQ ｜Kuriboh J ｜
-1:57:21 ｜NT$22.00 ｜UCk94aoybrVQ3NErsNhka0dQ ｜スキサキ ｜
-2:14:13 ｜HK$10.00 ｜UCgCKBqrEwcV1_Knkj4q1zTA ｜TKS素食亂搞 ｜
-2:16:22 ｜¥200 ｜UCBV6lQZy2gEk_2hg6Xtx4GQ ｜もつ煮込みゅ ｜
-2:21:02 ｜A$10.00 ｜UCI99_oH048CtZdMgZUkAjxQ ｜Kuriboh J ｜
-2:21:22 ｜MYR 4.50 ｜UCTllvNhRWJAnsoWojI6j8-A ｜しんちゃん ｜
-2:22:25 ｜HK$10.00 ｜UCN5RAwEl4Z6UPazaZmi41Ew ｜CHRIS Ng ｜
+｜-00:00:26｜Member (2 months)｜A$1.99｜UCI99_oH048CtZdMgZUkAjxQ｜Kuriboh J｜
+｜00:02:42｜Member (6 months)｜NT$22.00｜UCWfT5wRZXIcHxCwAGPwHTDQ｜雨 ame｜
+｜00:02:42｜Member (6 months)｜NT$22.00｜UCWfT5wRZXIcHxCwAGPwHTDQ｜雨 ame｜
+｜00:03:54｜Member (6 months)｜ARS 20.00｜UC__HNc2Q9t6fH5cXnqrH-lw｜💗🥄ケンジ 【一般紳士A】｜
+｜00:04:10｜Member (6 months)｜¥190｜UCrTGOe-EZMOxU7owURbeZuA｜千代井から｜
+｜00:10:27｜Member (6 months)｜HK$8.00｜UCPUsLE1arhzUF3PRCLPj4vg｜Chesterチェスター｜
+｜00:10:47｜｜¥120｜UC5hi5iYPnkmhxkiP_5PqP9A｜ぽぺっっっっっ｜
+｜00:13:27｜Member (2 months)｜ARS 100.00｜UCAtWA_ZA8XMGr6gg9QhnMRw｜C.K. Au｜
+｜00:15:37｜Member (2 months)｜A$2.00｜UCI99_oH048CtZdMgZUkAjxQ｜Kuriboh J｜
+｜00:44:11｜Member (6 months)｜HK$50.00｜UC7eorhXJadXTeFfIcgaKnOA｜何柱威ho｜
+｜01:17:47｜Member (2 months)｜A$1.99｜UCI99_oH048CtZdMgZUkAjxQ｜Kuriboh J｜
+｜01:57:21｜Member (6 months)｜NT$22.00｜UCk94aoybrVQ3NErsNhka0dQ｜スキサキ｜
+｜02:14:13｜Member (6 months)｜HK$10.00｜UCgCKBqrEwcV1_Knkj4q1zTA｜TKS素食亂搞｜
+｜02:16:22｜New member｜¥200｜UCBV6lQZy2gEk_2hg6Xtx4GQ｜もつ煮込みゅ｜
+｜02:21:02｜Member (2 months)｜A$10.00｜UCI99_oH048CtZdMgZUkAjxQ｜Kuriboh J｜
+｜02:21:22｜Member (6 months)｜MYR 4.50｜UCTllvNhRWJAnsoWojI6j8-A｜しんちゃん｜
+｜02:22:25｜Member (2 months)｜HK$10.00｜UCN5RAwEl4Z6UPazaZmi41Ew｜CHRIS Ng｜
